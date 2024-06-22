@@ -24,7 +24,7 @@ public class Hibernate_Props {
 				 props.put(Environment.DRIVER, "com.mysql.cj.jdbc.Driver");
 				 props.put(Environment.URL, "jdbc:mysql://localhost:3306/hibernate");
 				 props.put(Environment.USER, "root");
-				 props.put(Environment.PASS, "21KN1A05H4");
+				 props.put(Environment.PASS, "use password");
 				 props.put(Environment.DIALECT,"org.hibernate.dialect.MySQL8Dialect");
 				 props.put(Environment.HBM2DDL_AUTO, "update");
 				 props.put(Environment.SHOW_SQL, true);
