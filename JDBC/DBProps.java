@@ -8,7 +8,7 @@ public class DBProps {
 
 	private static String url = "jdbc:mysql://localhost:3306/jdbc";
 	private static String userName = "root";
-	private static String password = "21KN1A05H4";
+	private static String password = "use password";
 
 	public static Connection getConnection() throws SQLException{
 		
